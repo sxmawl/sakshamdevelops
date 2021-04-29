@@ -7,7 +7,7 @@
 
 I am always eager to learn and build new things with fresh technology that creates difference. Currently pursuing my Computer Science undergraduate degree at the BITS Pilani. 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/SakshamDevelops/sakshamdevelops/blob/main/sakshamdevelopsimg.png" width="50%" height="auto" />
 
 
 #### 🏗 Things I am currently working on: 
