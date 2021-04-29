@@ -22,7 +22,6 @@ I am always eager to learn and build new things with fresh technology that creat
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sakshamdevelops&show_icons=true&hide_border=true" />
 
-<img style="margin: 1%;" width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img style="margin: 1%;" width="10%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1">
 <img style="margin: 1%;" width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 <br />
