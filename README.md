@@ -11,11 +11,11 @@ I am always eager to learn and build new things with fresh technology that creat
 
 
 #### 🏗 Things I am currently working on: 
-- Enhancing my React skills
-- A New Venture 🚀 *coming soon*
+- Learning networks
+- Growth hacking
 
 #### 🧵 Things I am challenging myself with:
-- Being more productive
+- DSA using JAVA
 - Exercising 5 days a week
 
 #### :computer: Programming languages and tools: 
